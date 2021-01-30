@@ -1,0 +1,3 @@
+dt          { font-weight:bold }
+
+dt.finished { font-weight:normal; text-decoration:line-through }
